@@ -1,0 +1,13 @@
+{
+    "activityComment____": "In the \"name\" field, you can use ${prefix} to add in the prefix directly from config.json",
+    "permissionComment____": "The permission field is the name of the permission members must have to purge messages. Syntax MUST be all uppercase, with underscores in between words. For example, the permission I use is 'MANAGE_MESSAGES'.",
+
+    "prefix": "!",
+    "token": "Your Token Here",
+    "permission": "MANAGE_MESSAGES",
+    "activity": { 
+        "name": "Status Text Here",
+        "type": "LISTENING // WATCHING // PLAYING",
+        "status": "dnd // online // idle"
+    }
+}
